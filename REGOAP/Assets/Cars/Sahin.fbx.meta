@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: 72070c08ebf80ac4a8fd31dc0ee3e9fe
+timeCreated: 1458474079
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bluecarr_1
+    100002: Greencar
+    100004: Hahin
+    100006: Hahin_1
+    100008: Hahin_2
+    100010: Hahin_3
+    100012: motor_8
+    100014: motor_8_2
+    100016: motor_8_3
+    100018: motor_8_4
+    100020: Redcar_1
+    100022: Redcar_2
+    100024: //RootNode
+    100026: Teker
+    100028: Teker_1
+    100030: Teker_1_2
+    100032: Teker_1_3
+    100034: Teker_1_4
+    100036: Teker_2
+    100038: Teker_2_2
+    100040: Teker_2_3
+    100042: Teker_2_4
+    100044: Teker_2_5
+    100046: Teker_3
+    100048: Teker_3_2
+    100050: Teker_3_3
+    100052: Teker_3_4
+    100054: Teker_3_5
+    100056: Teker_4
+    100058: Teker_5
+    100060: Teker_6
+    100062: Teker_7
+    100064: Teker_8
+    400000: Bluecarr_1
+    400002: Greencar
+    400004: Hahin
+    400006: Hahin_1
+    400008: Hahin_2
+    400010: Hahin_3
+    400012: motor_8
+    400014: motor_8_2
+    400016: motor_8_3
+    400018: motor_8_4
+    400020: Redcar_1
+    400022: Redcar_2
+    400024: //RootNode
+    400026: Teker
+    400028: Teker_1
+    400030: Teker_1_2
+    400032: Teker_1_3
+    400034: Teker_1_4
+    400036: Teker_2
+    400038: Teker_2_2
+    400040: Teker_2_3
+    400042: Teker_2_4
+    400044: Teker_2_5
+    400046: Teker_3
+    400048: Teker_3_2
+    400050: Teker_3_3
+    400052: Teker_3_4
+    400054: Teker_3_5
+    400056: Teker_4
+    400058: Teker_5
+    400060: Teker_6
+    400062: Teker_7
+    400064: Teker_8
+    2300000: Bluecarr_1
+    2300002: Greencar
+    2300004: motor_8
+    2300006: motor_8_2
+    2300008: motor_8_3
+    2300010: motor_8_4
+    2300012: Redcar_1
+    2300014: Redcar_2
+    2300016: Teker_1
+    2300018: Teker_1_2
+    2300020: Teker_1_3
+    2300022: Teker_1_4
+    2300024: Teker_2
+    2300026: Teker_2_2
+    2300028: Teker_2_3
+    2300030: Teker_2_4
+    2300032: Teker_2_5
+    2300034: Teker_3
+    2300036: Teker_3_3
+    2300038: Teker_3_4
+    2300040: Teker_3_5
+    2300042: Teker_4
+    2300044: Teker_6
+    2300046: Teker_8
+    3300000: Bluecarr_1
+    3300002: Greencar
+    3300004: motor_8
+    3300006: motor_8_2
+    3300008: motor_8_3
+    3300010: motor_8_4
+    3300012: Redcar_1
+    3300014: Redcar_2
+    3300016: Teker_1
+    3300018: Teker_1_2
+    3300020: Teker_1_3
+    3300022: Teker_1_4
+    3300024: Teker_2
+    3300026: Teker_2_2
+    3300028: Teker_2_3
+    3300030: Teker_2_4
+    3300032: Teker_2_5
+    3300034: Teker_3
+    3300036: Teker_3_3
+    3300038: Teker_3_4
+    3300040: Teker_3_5
+    3300042: Teker_4
+    3300044: Teker_6
+    3300046: Teker_8
+    4300000: Teker_2
+    4300002: Teker_1
+    4300004: Teker_2_2
+    4300006: Teker_3
+    4300008: Redcar_1
+    4300010: motor_8
+    4300012: Teker_4
+    4300014: Teker_1_2
+    4300016: Teker_2_3
+    4300018: Teker_3_3
+    4300020: motor_8_2
+    4300022: Greencar
+    4300024: Teker_6
+    4300026: Teker_1_3
+    4300028: Teker_2_4
+    4300030: Teker_3_4
+    4300032: Bluecarr_1
+    4300034: motor_8_3
+    4300036: Teker_8
+    4300038: Teker_1_4
+    4300040: Teker_2_5
+    4300042: Teker_3_5
+    4300044: motor_8_4
+    4300046: Redcar_2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

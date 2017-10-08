@@ -1,0 +1,173 @@
+-debug
+-target:library
+-nowarn:0169
+-langversion:4
+-out:Temp\Assembly-CSharp.dll
+-unsafe
+-r:E:/unity3d/Editor/Data/Managed/UnityEditor.dll
+-r:E:/unity3d/Editor/Data/Managed/UnityEngine.dll
+-r:Library/FacebookSDK/Facebook.Unity.Settings.dll
+-r:E:/unity3d/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+-r:E:/unity3d/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+-r:E:/unity3d/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll
+-r:E:/unity3d/Editor/Data/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll
+-r:E:/unity3d/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll
+-r:E:/unity3d/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll
+-r:E:/unity3d/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll
+-r:E:/unity3d/Editor/Data\Managed/Mono.Cecil.dll
+-r:E:/unity3d/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll
+-r:E:/unity3d/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Common.dll
+-define:UNITY_5_3_OR_NEWER
+-define:UNITY_5_4_OR_NEWER
+-define:UNITY_5_5_OR_NEWER
+-define:UNITY_5_6_OR_NEWER
+-define:UNITY_2017_1_OR_NEWER
+-define:UNITY_2017_1_1
+-define:UNITY_2017_1
+-define:UNITY_2017
+-define:PLATFORM_ARCH_64
+-define:UNITY_64
+-define:UNITY_ANALYTICS
+-define:ENABLE_AUDIO
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_DUCK_TYPING
+-define:ENABLE_GENERICS
+-define:ENABLE_PVR_GI
+-define:ENABLE_MICROPHONE
+-define:ENABLE_MULTIPLE_DISPLAYS
+-define:ENABLE_PHYSICS
+-define:ENABLE_RUNTIME_NAVMESH_BUILDING
+-define:ENABLE_SPRITERENDERER_FLIPPING
+-define:ENABLE_SPRITES
+-define:ENABLE_TERRAIN
+-define:ENABLE_RAKNET
+-define:ENABLE_DIRECTOR
+-define:ENABLE_UNET
+-define:ENABLE_LZMA
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_WEBCAM
+-define:ENABLE_WWW
+-define:ENABLE_CLOUD_SERVICES_COLLAB
+-define:ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS
+-define:ENABLE_CLOUD_SERVICES_ADS
+-define:ENABLE_CLOUD_HUB
+-define:ENABLE_CLOUD_PROJECT_ID
+-define:ENABLE_CLOUD_SERVICES_USE_WEBREQUEST
+-define:ENABLE_CLOUD_SERVICES_UNET
+-define:ENABLE_CLOUD_SERVICES_BUILD
+-define:ENABLE_CLOUD_LICENSE
+-define:ENABLE_WEBSOCKET_CLIENT
+-define:ENABLE_DIRECTOR_AUDIO
+-define:ENABLE_TIMELINE
+-define:ENABLE_EDITOR_METRICS
+-define:ENABLE_EDITOR_METRICS_CACHING
+-define:ENABLE_NATIVE_ARRAY
+-define:ENABLE_SPRITE_MASKING
+-define:INCLUDE_DYNAMIC_GI
+-define:INCLUDE_GI
+-define:ENABLE_MONO_BDWGC
+-define:PLATFORM_SUPPORTS_MONO
+-define:RENDER_SOFTWARE_CURSOR
+-define:INCLUDE_PUBNUB
+-define:ENABLE_PLAYMODE_TESTS_RUNNER
+-define:ENABLE_VIDEO
+-define:ENABLE_RMGUI
+-define:ENABLE_CUSTOM_RENDER_TEXTURE
+-define:ENABLE_STYLE_SHEETS
+-define:UNITY_STANDALONE_WIN
+-define:UNITY_STANDALONE
+-define:ENABLE_SUBSTANCE
+-define:ENABLE_RUNTIME_GI
+-define:ENABLE_MOVIES
+-define:ENABLE_NETWORK
+-define:ENABLE_CRUNCH_TEXTURE_COMPRESSION
+-define:ENABLE_UNITYWEBREQUEST
+-define:ENABLE_CLOUD_SERVICES
+-define:ENABLE_CLOUD_SERVICES_ANALYTICS
+-define:ENABLE_CLOUD_SERVICES_PURCHASING
+-define:ENABLE_CLOUD_SERVICES_CRASH_REPORTING
+-define:ENABLE_EVENT_QUEUE
+-define:ENABLE_CLUSTERINPUT
+-define:ENABLE_VR
+-define:ENABLE_WEBSOCKET_HOST
+-define:ENABLE_MONO
+-define:NET_2_0_SUBSET
+-define:ENABLE_PROFILER
+-define:DEBUG
+-define:TRACE
+-define:UNITY_ASSERTIONS
+-define:UNITY_EDITOR
+-define:UNITY_EDITOR_64
+-define:UNITY_EDITOR_WIN
+-define:ENABLE_NATIVE_ARRAY_CHECKS
+-define:UNITY_TEAM_LICENSE
+"Assets/04. Script/ReGoap/ReGoap/Core/IReGoapAction.cs"
+"Assets/04. Script/ReGoap/ReGoap/Core/IReGoapAgent.cs"
+"Assets/04. Script/ReGoap/ReGoap/Core/IReGoapAgentHelper.cs"
+"Assets/04. Script/ReGoap/ReGoap/Core/IReGoapGoal.cs"
+"Assets/04. Script/ReGoap/ReGoap/Core/IReGoapMemory.cs"
+"Assets/04. Script/ReGoap/ReGoap/Core/IReGoapSensor.cs"
+"Assets/04. Script/ReGoap/ReGoap/Core/ReGoapActionState.cs"
+"Assets/04. Script/ReGoap/ReGoap/Core/ReGoapState.cs"
+"Assets/04. Script/ReGoap/ReGoap/Planner/AStar.cs"
+"Assets/04. Script/ReGoap/ReGoap/Planner/FastPriorityQueue.cs"
+"Assets/04. Script/ReGoap/ReGoap/Planner/IGoapPlanner.cs"
+"Assets/04. Script/ReGoap/ReGoap/Planner/ReGoapNode.cs"
+"Assets/04. Script/ReGoap/ReGoap/Planner/ReGoapPlanner.cs"
+"Assets/04. Script/ReGoap/ReGoap/Planner/ReGoapPlannerSettings.cs"
+"Assets/04. Script/ReGoap/ReGoap/TaxiEx/Action/GenericGoTo.cs"
+"Assets/04. Script/ReGoap/ReGoap/TaxiEx/Agent/Taxi.cs"
+"Assets/04. Script/ReGoap/ReGoap/TaxiEx/Goal/Taxigoal.cs"
+"Assets/04. Script/ReGoap/ReGoap/TaxiEx/Memory/TaxiMemory.cs"
+"Assets/04. Script/ReGoap/ReGoap/TaxiEx/Planner/TaxiPlanner.cs"
+"Assets/04. Script/ReGoap/ReGoap/TaxiEx/Sensor/ApartSensor.cs"
+"Assets/04. Script/ReGoap/ReGoap/TaxiEx/Sensor/PlaceSensor.cs"
+"Assets/04. Script/ReGoap/ReGoap/TaxiEx/Sensor/TaxiParkSensor.cs"
+"Assets/04. Script/ReGoap/ReGoap/Unity/FSM/ISMState.cs"
+"Assets/04. Script/ReGoap/ReGoap/Unity/FSM/SmState.cs"
+"Assets/04. Script/ReGoap/ReGoap/Unity/FSM/StateMachine.cs"
+"Assets/04. Script/ReGoap/ReGoap/Unity/FSMExample/Actions/AddResourceToBankAction.cs"
+"Assets/04. Script/ReGoap/ReGoap/Unity/FSMExample/Actions/CraftRecipeAction.cs"
+"Assets/04. Script/ReGoap/ReGoap/Unity/FSMExample/Actions/GatherResourceAction.cs"
+"Assets/04. Script/ReGoap/ReGoap/Unity/FSMExample/Actions/GenericGoToAction.cs"
+"Assets/04. Script/ReGoap/ReGoap/Unity/FSMExample/Agents/BuilderAgent.cs"
+"Assets/04. Script/ReGoap/ReGoap/Unity/FSMExample/FSM/SmsGoTo.cs"
+"Assets/04. Script/ReGoap/ReGoap/Unity/FSMExample/FSM/SmsIdle.cs"
+"Assets/04. Script/ReGoap/ReGoap/Unity/FSMExample/Goals/CollectResourceGoal.cs"
+"Assets/04. Script/ReGoap/ReGoap/Unity/FSMExample/Memories/BuilderMemory.cs"
+"Assets/04. Script/ReGoap/ReGoap/Unity/FSMExample/OtherScripts/Bank.cs"
+"Assets/04. Script/ReGoap/ReGoap/Unity/FSMExample/OtherScripts/BankDebugToText.cs"
+"Assets/04. Script/ReGoap/ReGoap/Unity/FSMExample/OtherScripts/BankManager.cs"
+"Assets/04. Script/ReGoap/ReGoap/Unity/FSMExample/OtherScripts/MultipleResourcesManager.cs"
+"Assets/04. Script/ReGoap/ReGoap/Unity/FSMExample/OtherScripts/PrimitiveResource.cs"
+"Assets/04. Script/ReGoap/ReGoap/Unity/FSMExample/OtherScripts/Recipe.cs"
+"Assets/04. Script/ReGoap/ReGoap/Unity/FSMExample/OtherScripts/Resource.cs"
+"Assets/04. Script/ReGoap/ReGoap/Unity/FSMExample/OtherScripts/ResourceManager.cs"
+"Assets/04. Script/ReGoap/ReGoap/Unity/FSMExample/OtherScripts/ResourcesBag.cs"
+"Assets/04. Script/ReGoap/ReGoap/Unity/FSMExample/OtherScripts/Utilities.cs"
+"Assets/04. Script/ReGoap/ReGoap/Unity/FSMExample/OtherScripts/Workstation.cs"
+"Assets/04. Script/ReGoap/ReGoap/Unity/FSMExample/OtherScripts/WorkstationsManager.cs"
+"Assets/04. Script/ReGoap/ReGoap/Unity/FSMExample/Planners/FSMExamplePlannerManager.cs"
+"Assets/04. Script/ReGoap/ReGoap/Unity/FSMExample/Sensors/BankSensor.cs"
+"Assets/04. Script/ReGoap/ReGoap/Unity/FSMExample/Sensors/MultipleResourcesSensor.cs"
+"Assets/04. Script/ReGoap/ReGoap/Unity/FSMExample/Sensors/ResourcesBagSensor.cs"
+"Assets/04. Script/ReGoap/ReGoap/Unity/FSMExample/Sensors/ResourceSensor.cs"
+"Assets/04. Script/ReGoap/ReGoap/Unity/FSMExample/Sensors/WorkstationSensor.cs"
+"Assets/04. Script/ReGoap/ReGoap/Unity/ReGoapAction.cs"
+"Assets/04. Script/ReGoap/ReGoap/Unity/ReGoapAgent.cs"
+"Assets/04. Script/ReGoap/ReGoap/Unity/ReGoapGoal.cs"
+"Assets/04. Script/ReGoap/ReGoap/Unity/ReGoapMemory.cs"
+"Assets/04. Script/ReGoap/ReGoap/Unity/ReGoapPlannerManager.cs"
+"Assets/04. Script/ReGoap/ReGoap/Unity/ReGoapSensor.cs"
+"Assets/04. Script/ReGoap/ReGoap/Unity/Test/ReGoapTestAction.cs"
+"Assets/04. Script/ReGoap/ReGoap/Unity/Test/ReGoapTestAgent.cs"
+"Assets/04. Script/ReGoap/ReGoap/Unity/Test/ReGoapTestGoal.cs"
+"Assets/04. Script/ReGoap/ReGoap/Unity/Test/ReGoapTestMemory.cs"
+"Assets/04. Script/ReGoap/ReGoap/Utilities/ReGoapLogger.cs"
+-r:E:\unity3d\Editor\Data\Mono\lib\mono\unity\System.Runtime.Serialization.dll
+-r:E:\unity3d\Editor\Data\Mono\lib\mono\unity\System.Xml.Linq.dll
+-r:E:\unity3d\Editor\Data\Mono\lib\mono\unity\UnityScript.dll
+-r:E:\unity3d\Editor\Data\Mono\lib\mono\unity\UnityScript.Lang.dll
+-r:E:\unity3d\Editor\Data\Mono\lib\mono\unity\Boo.Lang.dll
+-sdk:unity
