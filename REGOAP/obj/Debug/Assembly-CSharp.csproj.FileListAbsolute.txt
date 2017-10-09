@@ -31,3 +31,36 @@ E:\unityworkspace\git\Handicapped-Taxi-Planning-with-Regoap-in-Unity3D\REGOAP\Te
 E:\unityworkspace\git\Handicapped-Taxi-Planning-with-Regoap-in-Unity3D\REGOAP\Temp\bin\Debug\UnityEngine.HoloLens.xml
 E:\unityworkspace\git\Handicapped-Taxi-Planning-with-Regoap-in-Unity3D\REGOAP\obj\Debug\Assembly-CSharp.dll
 E:\unityworkspace\git\Handicapped-Taxi-Planning-with-Regoap-in-Unity3D\REGOAP\obj\Debug\Assembly-CSharp.pdb
+E:\github\Taxi Planning\Handicapped-Taxi-Planning-with-Regoap-in-Unity3D\REGOAP\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\github\Taxi Planning\Handicapped-Taxi-Planning-with-Regoap-in-Unity3D\REGOAP\obj\Debug\Assembly-CSharp.dll
+E:\github\Taxi Planning\Handicapped-Taxi-Planning-with-Regoap-in-Unity3D\REGOAP\Temp\bin\Debug\Assembly-CSharp.dll
+E:\github\Taxi Planning\Handicapped-Taxi-Planning-with-Regoap-in-Unity3D\REGOAP\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\github\Taxi Planning\Handicapped-Taxi-Planning-with-Regoap-in-Unity3D\REGOAP\Temp\bin\Debug\Facebook.Unity.Settings.dll
+E:\github\Taxi Planning\Handicapped-Taxi-Planning-with-Regoap-in-Unity3D\REGOAP\Temp\bin\Debug\nunit.framework.dll
+E:\github\Taxi Planning\Handicapped-Taxi-Planning-with-Regoap-in-Unity3D\REGOAP\Temp\bin\Debug\UnityEditor.dll
+E:\github\Taxi Planning\Handicapped-Taxi-Planning-with-Regoap-in-Unity3D\REGOAP\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\github\Taxi Planning\Handicapped-Taxi-Planning-with-Regoap-in-Unity3D\REGOAP\Temp\bin\Debug\UnityEngine.dll
+E:\github\Taxi Planning\Handicapped-Taxi-Planning-with-Regoap-in-Unity3D\REGOAP\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\github\Taxi Planning\Handicapped-Taxi-Planning-with-Regoap-in-Unity3D\REGOAP\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\github\Taxi Planning\Handicapped-Taxi-Planning-with-Regoap-in-Unity3D\REGOAP\Temp\bin\Debug\UnityEngine.TestRunner.dll
+E:\github\Taxi Planning\Handicapped-Taxi-Planning-with-Regoap-in-Unity3D\REGOAP\Temp\bin\Debug\UnityEngine.Timeline.dll
+E:\github\Taxi Planning\Handicapped-Taxi-Planning-with-Regoap-in-Unity3D\REGOAP\Temp\bin\Debug\UnityEngine.UI.dll
+E:\github\Taxi Planning\Handicapped-Taxi-Planning-with-Regoap-in-Unity3D\REGOAP\Temp\bin\Debug\Mono.Cecil.dll
+E:\github\Taxi Planning\Handicapped-Taxi-Planning-with-Regoap-in-Unity3D\REGOAP\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\github\Taxi Planning\Handicapped-Taxi-Planning-with-Regoap-in-Unity3D\REGOAP\Temp\bin\Debug\Unity.DataContract.dll
+E:\github\Taxi Planning\Handicapped-Taxi-Planning-with-Regoap-in-Unity3D\REGOAP\Temp\bin\Debug\ExCSS.Unity.dll
+E:\github\Taxi Planning\Handicapped-Taxi-Planning-with-Regoap-in-Unity3D\REGOAP\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+E:\github\Taxi Planning\Handicapped-Taxi-Planning-with-Regoap-in-Unity3D\REGOAP\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\github\Taxi Planning\Handicapped-Taxi-Planning-with-Regoap-in-Unity3D\REGOAP\Temp\bin\Debug\Unity.CecilTools.dll
+E:\github\Taxi Planning\Handicapped-Taxi-Planning-with-Regoap-in-Unity3D\REGOAP\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\github\Taxi Planning\Handicapped-Taxi-Planning-with-Regoap-in-Unity3D\REGOAP\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\github\Taxi Planning\Handicapped-Taxi-Planning-with-Regoap-in-Unity3D\REGOAP\Temp\bin\Debug\UnityEngine.xml
+E:\github\Taxi Planning\Handicapped-Taxi-Planning-with-Regoap-in-Unity3D\REGOAP\Temp\bin\Debug\UnityEditor.xml
+E:\github\Taxi Planning\Handicapped-Taxi-Planning-with-Regoap-in-Unity3D\REGOAP\Temp\bin\Debug\UnityEngine.UI.xml
+E:\github\Taxi Planning\Handicapped-Taxi-Planning-with-Regoap-in-Unity3D\REGOAP\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\github\Taxi Planning\Handicapped-Taxi-Planning-with-Regoap-in-Unity3D\REGOAP\Temp\bin\Debug\UnityEngine.TestRunner.xml
+E:\github\Taxi Planning\Handicapped-Taxi-Planning-with-Regoap-in-Unity3D\REGOAP\Temp\bin\Debug\nunit.framework.xml
+E:\github\Taxi Planning\Handicapped-Taxi-Planning-with-Regoap-in-Unity3D\REGOAP\Temp\bin\Debug\UnityEngine.Timeline.xml
+E:\github\Taxi Planning\Handicapped-Taxi-Planning-with-Regoap-in-Unity3D\REGOAP\Temp\bin\Debug\UnityEngine.Analytics.xml
+E:\github\Taxi Planning\Handicapped-Taxi-Planning-with-Regoap-in-Unity3D\REGOAP\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\github\Taxi Planning\Handicapped-Taxi-Planning-with-Regoap-in-Unity3D\REGOAP\obj\Debug\Assembly-CSharp.pdb
